@@ -1,0 +1,26 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Blender Recent Files",
+  "description": "Sort blender recent files",
+  "developer_name": "Nesivmi - nesidizayn.com",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.5
+  },
+  "preferences": [
+    {
+      "id": "blender",
+      "type": "keyword",
+      "name": "Blender",
+      "description": "Sort blender recent files",
+      "default_value": "bl"
+    },
+    {
+      "id": "start",
+      "type": "text",
+      "name": "Start Blender",
+      "description": "Start blender with new file. Enter blender path",
+      "default_value": "/home/huy/Prolar/blender/blender"
+    }
+  ]
+}
