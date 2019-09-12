@@ -1,8 +1,8 @@
 # Ulauncher - Blender Recently
 
-[![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-green.svg)](https://github.com/nesivmi/ulauncher-blender-recently)
+[![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-green.svg)](https://github.com/nesivmi/ulauncher-blender)
 
-> [Blender Recently](https://github.com/nesivmi/ulauncher-blender-recently) Sort blender recent files
+> [Blender Recently](https://github.com/nesivmi/ulauncher-blender) Sort blender recent files
 
 ## Preview
 
@@ -20,7 +20,7 @@
 Open ulauncher preferences window -> extensions -> add extension and paste the following url:
 
 ```
-https://github.com/nesivmi/ulauncher-blender-recently
+https://github.com/nesivmi/ulauncher-blender
 ```
 
 ## Usage
