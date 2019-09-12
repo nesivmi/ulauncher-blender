@@ -1,4 +1,4 @@
-# Ulauncher Blender Recently
+# Ulauncher - Blender Recently
 
 [![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-green.svg)](https://github.com/nesivmi/ulauncher-blender-recently)
 
